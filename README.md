@@ -1,1 +1,1 @@
-# Lung-cancer-detection-NN
+# Lung-cancer-detection-VGG16
